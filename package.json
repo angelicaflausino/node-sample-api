@@ -1,0 +1,14 @@
+{
+  "name": "node_sample_api",
+  "version": "1.0.0",
+  "description": "Sample Restful with node.js",
+  "main": "app.js",
+  "author": "Angélica Flausino",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.7",
+    "validator": "^7.0.0"
+  }
+}
