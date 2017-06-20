@@ -1,4 +1,4 @@
-## Restful sample with node.js and MongoDB##
+## Restful sample with node.js and MongoDB ##
 
 
 ----------
